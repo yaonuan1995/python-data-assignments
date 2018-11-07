@@ -12,7 +12,7 @@ This dataset contains the news information from AP's website.
 4. ```Storylink``` - String e.g. **/705ae08bd6f44012b564b0f37b5ca089**
 5. ```Time``` - String e.g. **November 6, 2018**
 # Data Volume:
-
+180 rows × 5 columns
 # License:
 CC 4.0
 # Obstacles and Solutions:
